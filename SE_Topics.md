@@ -14,7 +14,7 @@ Please feel free to submit a PR with suggestions of topics to add.
 * Bug reporting: how to write a good bug report ?
 * Pair programming
 * Debugging
-* Configuration
+* Configuration Management
 * CI/CD
 
 
