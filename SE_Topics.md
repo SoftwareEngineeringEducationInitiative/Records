@@ -9,8 +9,9 @@ Please feel free to submit a PR with suggestions of topics to add.
 * Version control
 * Automated testing
 * Code review
-* Specification Writing
-* Code smells, naming practices, code style etc ?
+* Requirements Engineering
+* Code smells (perhaps merge with source code static analysis)
+* Naming practices, code style etc 
 * Bug reporting: how to write a good bug report ?
 * Pair programming
 * Software Modeling (how much should we model? using what? when (what kind of projects)? etc.)
@@ -19,6 +20,6 @@ Please feel free to submit a PR with suggestions of topics to add.
 * Source code static analysis and measurement.
 
 # Additional SE Topics
-* Communication (writing)
+* Communication (oral & writing) (Shall we move to the list above? Isn't it a core topic?)
 * Technical debt (perhaps a core topic)
 * Formal methods (does anyone in this group teach this topic in SE courses?)
